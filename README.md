@@ -1,7 +1,6 @@
 # Discovering 3D Hidden Elasticity in Isotropic and Transversely Isotropic Materials with Physics-informed UNets
 Data and codes from our paper: 
-Discovering 3D Hidden Elasticity in Isotropic and Transversely Isotropic Materials with Physics-informed UNets
-
+[Discovering 3D Hidden Elasticity in Isotropic and Transversely Isotropic Materials with Physics-informed UNets](https://www.sciencedirect.com/science/article/pii/S1742706124003532)
 
 We developed a physics-informed UNet-based neural network model (El-UNet) to discover the three-dimensional (3D) internal composition and space-dependent material properties of heterogeneous isotropic and transversely isotropic materials without a priori knowledge of the composition.
 This repository currently contains data and sample code from our published paper.
